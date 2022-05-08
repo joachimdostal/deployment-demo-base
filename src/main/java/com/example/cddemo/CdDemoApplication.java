@@ -1,13 +1,13 @@
-package com.example.ctdemo;
+package com.example.cddemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CtDemoApplication {
+public class CdDemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CtDemoApplication.class, args);
+		SpringApplication.run(CdDemoApplication.class, args);
 	}
 
 }
