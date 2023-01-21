@@ -8,7 +8,7 @@ public class HelloController {
 
 	@GetMapping("/")
 	public String index() {
-		return "<h2>Juhu!</h2><p>Glückwunsch, das war ein erfolgreiches Deployment!</p>";
+		return "<h2>Juhu!</h2><p>Glückwunsch, das war wieder ein erfolgreiches Deployment!</p>";
 	}
 
 }
